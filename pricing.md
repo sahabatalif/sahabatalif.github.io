@@ -8,7 +8,7 @@ title: Biaya
       <div class="col-md-6 col-lg-3 ftco-animate">
         <div class="pricing-entry bg-light pb-4 text-center">
           <div>
-            <h3 class="mb-3">Kelas Basic</h3>
+            <h3 class="mb-3">Kelas Reguler</h3>
             <p><span class="price">Rp200.000</span> <span class="per">/ bulan</span></p>
           </div>
           <div class="img" style="background-image: url(images/kelas-1.jpeg);"></div>
@@ -21,7 +21,7 @@ title: Biaya
       <div class="col-md-6 col-lg-3 ftco-animate">
         <div class="pricing-entry bg-light pb-4 text-center">
           <div>
-            <h3 class="mb-3">Kelas Reguler</h3>
+            <h3 class="mb-3">Kelas Intensif 2</h3>
             <p><span class="price">Rp400.000</span> <span class="per">/ bulan</span></p>
           </div>
           <div class="img" style="background-image: url(images/kelas-2.jpeg);"></div>
@@ -34,8 +34,8 @@ title: Biaya
       <div class="col-md-6 col-lg-3 ftco-animate">
         <div class="pricing-entry bg-light pb-4 text-center">
           <div>
-            <h3 class="mb-3">Kelas Intensif</h3>
-            <p><span class="price">Rp750.000</span> <span class="per">/ bulan</span></p>
+            <h3 class="mb-3">Kelas Intensif 3</h3>
+            <p><span class="price">Rp800.000</span> <span class="per">/ bulan</span></p>
           </div>
           <div class="img" style="background-image: url(images/main_banner2.jpeg); background-position: bottom;"></div>
           <div class="px-4">
@@ -48,7 +48,7 @@ title: Biaya
         <div class="pricing-entry bg-light pb-4 text-center">
           <div>
             <h3 class="mb-3">Kelas Full English</h3>
-            <p><span class="price">Rp500.000</span> <span class="per">/ bulan</span></p>
+            <p><span class="price">Rp750.000</span> <span class="per">/ bulan</span></p>
           </div>
           <div class="img" style="background-image: url(images/kelas-4.jpeg);"></div>
           <div class="px-4">
