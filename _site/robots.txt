@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /images/
+Disallow: /blog-single.html
+Disallow: /css/
+Disallow: /scss/
+Disallow: /js/
+Disallow: /fonts/
+
+Sitemap: http://sahabatalif.com/sitemap.xml

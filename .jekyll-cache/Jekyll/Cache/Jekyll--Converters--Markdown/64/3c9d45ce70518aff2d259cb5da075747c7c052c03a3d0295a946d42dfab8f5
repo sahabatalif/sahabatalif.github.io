@@ -1,0 +1,101 @@
+I"†<div class="container">
+	<div class="panel-group" id="accordion">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Apa saja yang dipelajari di Sahabat Alif? </a>
+				</h4>
+			</div>
+			<div id="collapseOne" class="panel-collapse collapse noCrossRef">
+				<div class="panel-body">
+                    Sahabat Alif dibagi menjadi 2 segmentasi kelas. Sahabat Alif Bumi (3-5 tahun) mengajarkan pengenalan huruf hijahiyah, hafalan doa, surah pilihan dan hadits, pembentukan karakter, praktek ibadah, dan kreasi islami (crafting). Sahabat Alif Bintang (6-12 tahun) mengajarkan lanjutan huruf hijahiyah, hafalan doa, juz amma dan hadits, pembentukan karakter, praktek ibadah, dan kreasi islami (crafting)
+                </div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Apakah ada test masuknya di Sahabat Alif?</a>
+				</h4>
+			</div>
+			<div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+				<div class="panel-body">
+                    Tidak ada. Tetapi diwajibkan mengikuti trial class untuk mengetahui kemampuan ananda dalam mengikuti pembelajaran di Sahabat Alif Sc
+                </div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Berapa lama pembelajaran Sahabat Alif?</a>
+				</h4>
+			</div>
+			<div id="collapseThree" class="panel-collapse collapse noCrossRef">
+				<div class="panel-body">
+                    Pembelajaran di Sahabat Alif setiap pertemuannya berdurasi 90 menit.
+                </div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">Bagaimana cara mendaftarnya?</a>
+				</h4>
+			</div>
+			<div id="collapseFour" class="panel-collapse collapse">
+				<div class="panel-body">
+                    Pendaftaran dapat dilakukan dengan menghubungi nomor admin (0813-8790-5968) atau dengan mengisi link ini https://forms.gle/Vsb3akc3WpNcfNSC6
+                </div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">Bagaimana sistem pembelajarannya?</a>
+				</h4>
+			</div>
+			<div id="collapseFive" class="panel-collapse collapse">
+				<div class="panel-body">
+                    Metode pembelajaran di Sahabat Alif  dengan metode praktis, mudah, cepat serta menyenangkan dan didasarkan pada pembentukan karakter anak yang positif dan islami.
+                </div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">Apa yang didapat anak setelah mendaftar?</a>
+				</h4>
+			</div>
+			<div id="collapseSix" class="panel-collapse collapse">
+				<div class="panel-body">
+                    Ananda akan mendapatkan student report, buku doa dan surah-surah pilihan dan buku al barqy.
+                </div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">Lorem ipsum dolor sit amet, consectetur adipiscing elit?</a>
+				</h4>
+			</div>
+			<div id="collapseSeven" class="panel-collapse collapse">
+				<div class="panel-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEight">Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus?</a>
+				</h4>
+			</div>
+			<div id="collapseEight" class="panel-collapse collapse">
+				<div class="panel-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+:ET
